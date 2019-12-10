@@ -1,0 +1,157 @@
+SciDAVis 1.25.0 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+6097
+<table creation_time="2019-11-12 00:54:52:094" caption_spec="%n%C{ - }%c" name="Table1" columns="4" rows="30"><comment><![CDATA[]]></comment><column creation_time="2019-11-12 00:54:52:094" caption_spec="%n%C{ - }%c" name="1/W" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-11-12 00:54:52:094" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-11-12 00:54:52:094" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="15" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.5252952900000000e-01</row><row type="TypeDouble" index="1" invalid="no">8.1669393700000004e-01</row><row type="TypeDouble" index="2" invalid="no">5.6299545399999995e-01</row><row type="TypeDouble" index="3" invalid="no">4.4829579300000000e-01</row><row type="TypeDouble" index="4" invalid="no">3.3075337799999999e-01</row><row type="TypeDouble" index="5" invalid="no">2.6705641099999999e-01</row><row type="TypeDouble" index="6" invalid="no">2.2598968699999999e-01</row><row type="TypeDouble" index="7" invalid="no">1.9730306100000000e-01</row><row type="TypeDouble" index="8" invalid="no">1.7649322700000000e-01</row><row type="TypeDouble" index="9" invalid="no">1.7060088800000001e-01</row><row type="TypeDouble" index="10" invalid="no">1.7060088800000001e-01</row></column><column creation_time="2019-11-12 01:52:08:697" caption_spec="%n%C{ - }%c" name="d1/w" type="TypeDouble" mode="Numeric" plot_designation="xErr"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-11-12 01:52:08:697" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-11-12 01:52:08:697" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="15" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.6000789999999999e-03</row><row type="TypeDouble" index="1" invalid="no">1.4157773400000001e-01</row><row type="TypeDouble" index="2" invalid="no">5.0886540000000001e-02</row><row type="TypeDouble" index="3" invalid="no">2.8153091000000002e-02</row><row type="TypeDouble" index="4" invalid="no">1.3507019000000000e-02</row><row type="TypeDouble" index="5" invalid="no">8.4071509999999999e-03</row><row type="TypeDouble" index="6" invalid="no">5.9359929999999997e-03</row><row type="TypeDouble" index="7" invalid="no">4.5118470000000003e-03</row><row type="TypeDouble" index="8" invalid="no">3.5963660000000001e-03</row><row type="TypeDouble" index="9" invalid="no">3.3494520000000002e-03</row><row type="TypeDouble" index="10" invalid="no">3.3494520000000002e-03</row></column><column creation_time="2019-11-12 00:55:35:161" caption_spec="%n%C{ - }%c" name="T" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-11-12 00:55:35:161" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-11-12 00:55:35:161" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="15" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">9.3722837699999995e-01</row><row type="TypeDouble" index="1" invalid="no">4.7995000000000001e+00</row><row type="TypeDouble" index="2" invalid="no">3.4932919249999999e+00</row><row type="TypeDouble" index="3" invalid="no">2.7876026270000001e+00</row><row type="TypeDouble" index="4" invalid="no">2.0683606079999999e+00</row><row type="TypeDouble" index="5" invalid="no">1.6600890380000000e+00</row><row type="TypeDouble" index="6" invalid="no">1.4220686860000000e+00</row><row type="TypeDouble" index="7" invalid="no">1.2422515850000000e+00</row><row type="TypeDouble" index="8" invalid="no">1.1147996650000001e+00</row><row type="TypeDouble" index="9" invalid="no">1.0776488879999999e+00</row><row type="TypeDouble" index="10" invalid="no">1.0576602280000000e+00</row></column><column creation_time="2019-11-12 01:22:07:525" caption_spec="%n%C{ - }%c" name="dT" type="TypeDouble" mode="Numeric" plot_designation="yErr"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-11-12 01:22:07:525" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-11-12 01:22:07:525" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="15" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">3.4897699999999999e-04</row><row type="TypeDouble" index="1" invalid="no">5.0059329999999997e-03</row><row type="TypeDouble" index="2" invalid="no">4.0454419999999998e-03</row><row type="TypeDouble" index="3" invalid="no">4.0156350000000000e-03</row><row type="TypeDouble" index="4" invalid="no">7.5734600000000000e-04</row><row type="TypeDouble" index="5" invalid="no">2.0301880000000000e-03</row><row type="TypeDouble" index="6" invalid="no">9.4589900000000005e-04</row><row type="TypeDouble" index="7" invalid="no">5.4398700000000001e-04</row><row type="TypeDouble" index="8" invalid="no">9.4196400000000000e-04</row><row type="TypeDouble" index="9" invalid="no">4.5136900000000002e-04</row><row type="TypeDouble" index="10" invalid="no">2.1901300000000000e-04</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width></table>
+geometry	0	0	679	519	
+
+</table>
+<multiLayer>
+График1	1	1	11.12.2019 1:53:07
+geometry	maximized	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	2752	962
+Alignement	0	0
+<graph>
+ggeometry	6	3	2803	1057
+PlotTitle	Период для разных конфигураций	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	1/w , c/рад	Период T, c			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_1/W	Table1_T	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	14	1	0	64		2	0	0	29	1
+ErrorBars	1	Table1_1/W	Table1_T	Table1_dT	1	8	#ff000000	1	1	1
+ErrorBars	0	Table1_1/W	Table1_T	Table1_d1/w	1	8	#ff000000	1	1	1
+FunctionCurve	0,PolyПриближение1,x,0.14365991,0.76529924	100			0	1	#ff1111ff	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64		2	0	308306576	20992	1
+<formula>
+a0=0.110996195960583
+a1=6.15897486960908
+
+a0+a1*x
+</formula>
+FunctionCurve	0,PolyПриближение2,x,0.14365991,0.526816231	100			0	1	#ff11ff54	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64		2	0	308306656	144	1
+<formula>
+a0=-0.00759432030296335
+a1=6.66239287850579
+
+a0+a1*x
+</formula>
+scale	0	0.5	5	0	8	5	0	0
+scale	1	0.5	5	0	8	5	0	0
+scale	2	0	1	0	8	5	0	0
+scale	3	0.1	0.9	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.102940095553105	4.95273109243697	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}Table1_T	\c{4}LinearПриближение1	\c{4}PolyПриближение1	\c{5}PolyПриближение2	</legend>
+</graph>
+</multiLayer>
+<log>
+[11.12.2019 0:56:36	Plot: '''']
+Линейная регрессия приближение по набору данных: Table1_2, используя функцию: A*x+B
+Ошибки погрешности Y: Связанный набор данных (Table1_3)
+От значения по x = 0.143659911 до значения по x = 0.157709177
+B (y-intercept) = -0.294240156389949 +/- 0.0513375437259491
+A (slope) = 8.57210981698261 +/- 0.357177543487363
+--------------------------------------------------------------------------------------
+Chi^2 = 3.07816563791272e-33
+R^2 = 1
+---------------------------------------------------------------------------------------
+[11.12.2019 0:56:53	Plot: '''']
+Линейная регрессия приближение по набору данных: Table1_2, используя функцию: A*x+B
+Ошибки погрешности Y: Связанный набор данных (Table1_3)
+От значения по x = 0.143659911 до значения по x = 0.157709177
+B (y-intercept) = -0.294240156389949 +/- 0.0513375437259491
+A (slope) = 8.57210981698261 +/- 0.357177543487363
+--------------------------------------------------------------------------------------
+Chi^2 = 3.07816563791272e-33
+R^2 = 1
+---------------------------------------------------------------------------------------
+[11.12.2019 0:59:03	Plot: '''']
+Линейная регрессия приближение по набору данных: Table1_2, используя функцию: A*x+B
+Ошибки погрешности Y: Связанный набор данных (Table1_3)
+От значения по x = 0.143659911 до значения по x = 0.157709177
+B (y-intercept) = -0.294240156389949 +/- 0.0513375437259491
+A (slope) = 8.57210981698261 +/- 0.357177543487363
+--------------------------------------------------------------------------------------
+Chi^2 = 3.07816563791272e-33
+R^2 = 1
+---------------------------------------------------------------------------------------
+[11.12.2019 0:59:52	Plot: '''']
+Полиномиальный приближение по набору данных: Table1_2, используя функцию: a0+a1*x
+Ошибки погрешности Y: Связанный набор данных (Table1_3)
+От значения по x = 0.143659911 до значения по x = 0.765299199
+a0  = 0.110996172002213 +/- 0.000344764719490004
+a1  = 6.15897523693669 +/- 0.000586894928213426
+--------------------------------------------------------------------------------------
+Chi^2 = 156,499.521971771
+R^2 = 0.998580942198219
+---------------------------------------------------------------------------------------
+[11.12.2019 1:20:12	Plot: '''']
+Полиномиальный приближение по набору данных: Table1_2, используя функцию: a0+a1*x
+Ошибки погрешности Y: Связанный набор данных (Table1_3)
+От значения по x = 0.143659911 до значения по x = 0.526816201
+a0  = -0.00759437331407554 +/- 0.000459952670609141
+a1  = 6.6623933884826 +/- 0.00141943574726493
+--------------------------------------------------------------------------------------
+Chi^2 = 4,777.12608659355
+R^2 = 0.999783207889158
+---------------------------------------------------------------------------------------
+[11.12.2019 1:53:17	Plot: '''']
+Линейная регрессия приближение по набору данных: Table1_T, используя функцию: A*x+B
+Ошибки погрешности Y: Связанный набор данных (Table1_dT)
+От значения по x = 0.14365991 до значения по x = 0.157709183
+B (y-intercept) = -0.294239534243053 +/- 0.0513375178033005
+A (slope) = 8.57210554595957 +/- 0.35717736552493
+--------------------------------------------------------------------------------------
+Chi^2 = 4.55622087223907e-32
+R^2 = 1
+---------------------------------------------------------------------------------------
+[11.12.2019 1:55:54	Plot: '''']
+Полиномиальный приближение по набору данных: Table1_T, используя функцию: a0+a1*x
+Ошибки погрешности Y: Связанный набор данных (Table1_dT)
+От значения по x = 0.14365991 до значения по x = 0.76529924
+a0  = 0.110996195960583 +/- 0.00034476471734895
+a1  = 6.15897486960908 +/- 0.000586894892994969
+--------------------------------------------------------------------------------------
+Chi^2 = 156,499.441119422
+R^2 = 0.998580942931347
+---------------------------------------------------------------------------------------
+[11.12.2019 1:56:20	Plot: '''']
+Полиномиальный приближение по набору данных: Table1_T, используя функцию: a0+a1*x
+Ошибки погрешности Y: Связанный набор данных (Table1_dT)
+От значения по x = 0.14365991 до значения по x = 0.526816231
+a0  = -0.00759432030296335 +/- 0.000459952660518652
+a1  = 6.66239287850579 +/- 0.00141943563799195
+--------------------------------------------------------------------------------------
+Chi^2 = 4,777.10679632052
+R^2 = 0.999783208764575
+---------------------------------------------------------------------------------------
+</log>
