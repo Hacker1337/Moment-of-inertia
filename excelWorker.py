@@ -30,7 +30,7 @@ for k in range(1, len(a)):
         inter = t[k-1] + (t[k]-t[k-1])*a[k]/(a[k-1] - a[k])
         goodt.append(inter)
         if len(goodt) > size:
-            out.write(str((maxA-minA)/2) + '\t' + str((float(goodt[-1]) - float(goodt[-size]))/(size-1)) + '\n')
+            out.write(str((maxA-minA)/2) + '\t' + str((float(goodt[-1]) - float(goodt[-size]))/(size-1)) + '\t' + str(t[k]) + '\n')
         maxA = 0
         minA = 10
 
